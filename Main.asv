@@ -30,7 +30,16 @@ test21= [dataBaru(31,3:18)];
 test22= [dataBaru(32,3:18)];
 test23= [dataBaru(33,3:18)];
 test24= [dataBaru(34,3:18)];
-
+test25= [dataBaru(35,3:18)];
+test26= [dataBaru(36,3:18)];
+test27= [dataBaru(37,3:18)];
+test28= [dataBaru(38,3:18)];
+test29= [dataBaru(39,3:18)];
+test30= [dataBaru(40,3:18)];
+test31= [dataBaru(41,3:18)];
+test32= [dataBaru(42,3:18)];
+test33= [dataBaru(43,3:18)];
+test34= [dataBaru(44,3:18)];
 
 Aceh = class.predict(test)
 hasil2 = class.predict(test2)
@@ -45,17 +54,28 @@ hasil10 = class.predict(test10)
 hasil11 = class.predict(test11)
 hasil12 = class.predict(test12)
 hasil13 = class.predict(test13)
-hasil14 = class.predict(test14)
-hasil15 = class.predict(test15)
-hasil16 = class.predict(test16)
-hasil17 = class.predict(test17)
-hasil18 = class.predict(test18)
-hasil19 = class.predict(test19)
-hasil20 = class.predict(test20)
-hasil21 = class.predict(test21)
-hasil22 = class.predict(test22)
-hasil23 = class.predict(test23)
-hasil24 = class.predict(test24)
+hasil14 = class.predict(test2)
+hasil15 = class.predict(test2)
+hasil16 = class.predict(test2)
+hasil17 = class.predict(test2)
+hasil18 = class.predict(test2)
+hasil19 = class.predict(test2)
+hasil20 = class.predict(test2)
+hasil21 = class.predict(test2)
+hasil22 = class.predict(test2)
+hasil23 = class.predict(test2)
+hasil24 = class.predict(test2)
+hasil25 = class.predict(test2)
+hasil26 = class.predict(test2)
+hasil27 = class.predict(test2)
+hasil28 = class.predict(test2)
+hasil29 = class.predict(test2)
+hasil30 = class.predict(test2)
+hasil31 = class.predict(test2)
+hasil32 = class.predict(test2)
+hasil33 = class.predict(test2)
+hasil34 = class.predict(test2)
+
 
 
 
